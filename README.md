@@ -7,5 +7,5 @@ Página muy sencilla creada con Boostrap
 <br>
 <img  src='https://cedavilu.com/wp-content/uploads/2021/11/banner-hotmart-opcional.png' alt='Curso de Introducción al Desarrollo Web (HTML5 - CSS3'>
 <br>
-<a href= 'https://go.hotmart.com/I61223770Q' >Información del curso<a/>
+<a href= 'https://go.hotmart.com/I61223770Q' target='_blank' >Información del curso<a/>
 <hr>
